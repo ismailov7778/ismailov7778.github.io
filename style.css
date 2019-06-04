@@ -1,0 +1,94 @@
+/* ПЕРВАЯ ЧАСТЬ ШАПКИ */
+
+.firstpart {
+  width: 100%;
+  height: 43px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2669d2;
+}
+.lang {
+  width: 100px;
+  height: 20px;
+}
+marquee {
+  width: 750px;
+  height: 43px;
+  line-height: 44px; /*Бегущая строка по центру*/
+  background-color: #0d49a8;
+  color: white;
+  margin: 5px 5px;
+}
+.socnet {
+  width: 100px;
+  /*margin-left: 8px;*/
+}
+
+
+/* ВТОРАЯ ЧАСТЬ ШАПКИ */
+
+.secondpart {
+  margin: auto;
+  width: 970px;
+  height: 190px;
+  background-color: lightgreen;
+  display: flex;
+}
+
+.logos {
+  width: 140px;
+  height: 117px;
+  background-color: lightyellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.nneflogo {
+  width: 110px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.miraslogo {
+  width: 60px;
+  height: 60px;
+  margin: auto;
+}
+.logos img {
+  width: 100%;
+}
+
+.schoolname {
+height: 115px;
+width: 360px;
+}
+
+.schoolname span {
+  font-size: 13px;
+  display: block;
+}
+
+.schoolname span:nth-child(2) {
+  color: #0063ff;
+}
+.schoolname span:nth-child(3) {
+  color: #0063ff;
+  font-size: 22px;
+  margin: 21px 0 0 0;
+}
+
+.partner_pic {
+  width: 55px;
+  height: 55px;
+}
+.partner_pic img {
+  width: 100%;
+  height: 100%;
+}
+.partners_line {
+  display: flex;
+  justify-content: space-between;
+}

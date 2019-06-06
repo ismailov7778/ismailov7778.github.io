@@ -32,15 +32,16 @@ marquee {
   margin: auto;
   width: 970px;
   height: 190px;
-  background-color: lightgreen;
+  /*background-color: lightgreen;*/
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .logos {
   width: 140px;
   height: 117px;
-  background-color: lightyellow;
+/*  background-color: lightyellow;*/
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -111,8 +112,21 @@ width: 360px;
 }
 .menu_list li {
   display: inline;
+
 }
 
+.menu_list a {
+  font-size: 17px;
+  color: white;
+  text-decoration: none;
+  background: url(images\sources\menu_vert_line.png) left top repeat-y;
+  padding: 0 29px;
+  font-family: "PT Sans bold";
+  line-height: 58px;
+}
+.menu_list a:hover {
+  border-bottom: 2px solid #ffff00;
+}
 
 .slider {
   width: 970px;

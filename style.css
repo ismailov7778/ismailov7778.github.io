@@ -183,6 +183,7 @@ width: 360px;
   width: 970px;
   height: 400px;
   margin: auto;
+  margin-bottom: 5px;
 }
 
 
@@ -197,7 +198,15 @@ width: 360px;
 }
 
 #carouselExampleIndicators, .carousel-inner, .carousel-item {
-  height: 420px;
+  height: 400px;
+}
+.sliderbottom {
+  margin: auto;
+  margin-bottom: 5px;
+  width: 970px;
+  height: 5px;
+  background-color: #2669d2;
+  border-radius: .25rem;
 }
 
 .main {
@@ -208,6 +217,26 @@ width: 360px;
 .btn {
   float: right;
 }
+
+.card-group {
+  margin-bottom: 15px;
+}
+
+.card-group .card-text {
+  width: 282px;
+  height: 120px;
+}
+.card-group .card-img-top {
+  width: 322px;
+  height: 214.66px;
+}
+.card-group .card-title {
+  white-space: nowrap; /* Запрещаем перенос строк */
+    overflow: hidden; /* Обрезаем все, что не помещается в область */
+    text-overflow: ellipsis; /* Добавляем многоточие */
+}
+
+
 
 .calendar {
   width: 970px;

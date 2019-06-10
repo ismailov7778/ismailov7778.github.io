@@ -116,9 +116,23 @@ width: 360px;
 }
 
 .telissue {
-  margin-left: 16px;
+  margin-left: 15px;
 }
-
+.telephone span {
+  font-size: 16px;
+  color: #0063ff;
+}
+.telephone i {
+  font-size: 1rem;
+  color: black;
+}
+.telephone {
+  font-size: 23px;
+  color: blue;
+}
+.contacts div {
+  margin-top: 10px;
+}
 
 .submenu {
   display: none;

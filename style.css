@@ -55,8 +55,8 @@ marquee {
 }
 
 .miraslogo {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   margin: auto;
 }
 .logos img {
@@ -82,9 +82,11 @@ width: 360px;
   margin: 21px 0 0 0;
 }
 
+
+
 .partner_pic {
   width: 55px;
-  height: 55px;
+  height: 45px;
 }
 .partner_pic img {
   width: 100%;
@@ -92,8 +94,10 @@ width: 360px;
 }
 .partners_line {
   display: flex;
+  width: 185px;
   justify-content: space-between;
 }
+
 
 
 .menu {
@@ -110,10 +114,41 @@ width: 360px;
   margin: 0;
   padding: 0;
 }
+
+
+
+
+.submenu {
+  display: none;
+  background: #154da5;
+  width: 280px;
+  position: absolute;
+  top: 60px;
+  z-index: 10;
+  padding: 10px 20px;
+
+}
+.menu_list li:hover .submenu {
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .menu_list li {
   display: inline;
 
 }
+
 
 .menu_list a {
   font-size: 20px;

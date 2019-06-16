@@ -108,6 +108,8 @@ width: 360px;
   justify-content: center;
 }
 
+
+
 .menu_list {
   display: inline-block;
   list-style: none;
@@ -237,11 +239,16 @@ width: 360px;
     text-overflow: ellipsis; /* Добавляем многоточие */
 }
 
+.card-news {
+  margin-top: 10px;
+}
+
 
 
 .calendar {
   width: 970px;
   margin: 0 auto;
+  margin-top: 10px;
 }
 
 .footer {

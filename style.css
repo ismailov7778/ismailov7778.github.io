@@ -38,6 +38,10 @@ marquee {
   align-items: center;
 }
 
+.logos, .partners {
+  height: 117px;
+}
+
 .logos {
   width: 140px;
   height: 117px;
@@ -73,15 +77,17 @@ width: 360px;
   display: block;
 }
 
+/*
+
 .schoolname span:nth-child(2) {
   color: #0063ff;
 }
-.schoolname span:nth-child(3) {
+*/
+.schoolname span:nth-child(1) {
   color: #0063ff;
   font-size: 22px;
-  margin: 21px 0 0 0;
+  margin: 15px 0 0 0;
 }
-
 
 
 .partner_pic {
@@ -108,6 +114,10 @@ width: 360px;
   justify-content: center;
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  font-size: 20px;
+}
 
 
 .menu_list {
@@ -215,6 +225,13 @@ width: 360px;
   width: 970px;
   margin: 0 auto;
 }
+
+.welcome-ava {
+  float: left;
+  margin-right: 15px;
+}
+
+
 
 .btn {
   float: right;

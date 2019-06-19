@@ -24,7 +24,10 @@ marquee {
   width: 100px;
   /*margin-left: 8px;*/
 }
-
+/*.lang img {
+  width: 24px;
+  height: 24px;
+}*/
 
 /* ВТОРАЯ ЧАСТЬ ШАПКИ */
 
@@ -62,6 +65,7 @@ marquee {
   width: 80px;
   height: 80px;
   margin: auto;
+  margin-top: 10px;
 }
 .logos img {
   width: 100%;
@@ -102,6 +106,10 @@ width: 360px;
   display: flex;
   width: 185px;
   justify-content: space-between;
+}
+
+.partners_line:nth-child(2) {
+  margin-top: 7px;
 }
 
 

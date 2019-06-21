@@ -135,6 +135,28 @@ width: 360px;
   padding: 0;
 }
 
+.dropdown-menu .dropdown-menu {
+  top: auto;
+  left: 100%;
+  transform: translateY(-2rem);
+}
+.dropdown-item + .dropdown-menu {
+  opacity: 0;
+  transition: opacity .3s 1s;
+}
+.dropdown-item.submenu::after {
+  content: '▸';
+  margin-left: 0.5rem;
+}
+.dropdown-item:hover + .dropdown-menu,
+.dropdown-menu:hover {
+  display: block;
+  opacity: 1;
+  transition: opacity .3s .1s;
+}
+
+
+
 .telissue {
   margin-left: 15px;
 }

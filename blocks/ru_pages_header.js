@@ -6,7 +6,7 @@ document.write("<a href=\"../../eng.html\"><img src=\"../../images/sources/en.pn
 document.write("<a href=\"../../index.html\"><img src=\"../../images/sources/ru.png\" alt=\"\"></a>");
 document.write("    </div>");
 document.write("    <div class=\"ticker\">");
-document.write("<marquee>20 лет международной школе «Мирас». В течение этого года проходят юбилейные мероприятия: международные конференции, спортивные соревнования, олимпиады, конкурсы, мастер-классы. В мероприятиях принимает участие все школьное сообщество. Финальное праздничное мероприятие состоится в декабре 2019 года.</marquee>");
+document.write("<marquee>Международная школа «Мирас» города Астана обеспечивает качественное образование, основанное на интеграции международных и казахстанских образовательных стандартов, способствующее формированию интернационального мышления,   содействующее всестороннему развитию студентов,  приобретению ими навыков непрерывного самообразования в стимулирующей и благоприятной школьной среде.</marquee>");
 document.write("    </div>");
 document.write("    <div class=\"socnet\">");
 document.write("<img src=\"../../images/sources/fb.png\" alt=\"\">");
@@ -117,7 +117,7 @@ document.write("            <a class=\"dropdown-item\" href=\"#\">Детский
 document.write("              <div class=\"dropdown-menu\">");
 document.write("                          <a class=\"dropdown-item\" href=\"welcome_preschool.html\">Приветствие координатора по дошкольному воспитанию</a>");
 document.write("                          <a class=\"dropdown-item\" href=\"rules_preschool.html\">Правила детского сада</a>");
-document.write("                          <a class=\"dropdown-item\" href=\"#\">Недельное меню</a>");
+document.write("                          <a class=\"dropdown-item\" href=\"food_preschool.html\">Недельное меню</a>");
 document.write("                          <a class=\"dropdown-item\" href=\"newsletter_preschool.html\">Информационный бюллетень</a>");
 document.write("                          <a class=\"dropdown-item\" href=\"activities_preschool.html\">Кружки/секции</a>");
 document.write("                          <!--<a class=\"dropdown-item submenu\" href=\"#\">2-й уровень</a>-->");
@@ -128,8 +128,8 @@ document.write("                        <a class=\"dropdown-item\" href=\"welcom
 document.write("                        <a class=\"dropdown-item\" href=\"calendar.html\">Календарь школы</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Руководство для родителей</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Правила и политики школы</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirement_primary.html\">Список учебных принадлежностей</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"uniform.html\">Школьная форма</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirements_primary.html\">Список учебных принадлежностей</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"uniform_primary.html\">Школьная форма</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"program_primary.html\">Программа Начальной школы</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"newsletter_primary.html\">Информационный бюллетень</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Недельное меню</a>");
@@ -142,7 +142,7 @@ document.write("                        <a class=\"dropdown-item\" href=\"#\">К
 document.write("                        <a class=\"dropdown-item\" href=\"calendar.html\">Руководство для родителей</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Правила и политики школы</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirements_secondary.html\">Список учебных принадлежностей</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"uniform.html\">Школьная форма</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"uniform_secondary.html\">Школьная форма</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"program_secondary.html\">Программа Старшей школы</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Дипломная программа</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"newsletter_secondary.html\">Информационный бюллетень</a>");

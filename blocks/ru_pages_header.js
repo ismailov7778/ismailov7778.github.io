@@ -92,7 +92,7 @@ document.write("          </a>");
 document.write("          <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">");
 document.write("            <a class=\"dropdown-item\" href=\"tarif.html\">Тарифы</a>");
 document.write("            <a class=\"dropdown-item\" href=\"procedure.html\">Правила приема</a>");
-document.write("            <a class=\"dropdown-item\" href=\"https://mirasastana-my.sharepoint.com/:f:/g/personal/yerlan_miras-astana_kz/Erxr-ko6dnhJmJKUaGXu9S8BjA1jK84p5fQp5JMCSykJsA?e=hfObIz\">Анкета</a>");
+document.write("            <a class=\"dropdown-item\" href=\"https://mirasastana-my.sharepoint.com/:f:/g/personal/yerlan_miras-astana_kz/Erxr-ko6dnhJmJKUaGXu9S8BjA1jK84p5fQp5JMCSykJsA?e=hfObIz\" target=\"_blank\">Анкета</a>");
 document.write("            <a class=\"dropdown-item\" href=\"equipment_requirements.html\">Список учебных принадлежностей</a>");
 document.write("            <a class=\"dropdown-item\" href=\"activities_all.html\">Кружки</a>");
 document.write("            <a class=\"dropdown-item\" href=\"uniform.html\">Школьная форма</a>");

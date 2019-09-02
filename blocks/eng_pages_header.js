@@ -82,6 +82,7 @@ document.write("          <div class=\"dropdown-menu\" aria-labelledby=\"navbarD
 document.write("            <a class=\"dropdown-item\" href=\"about-foundation.html\">Board Information</a>");
 document.write("            <a class=\"dropdown-item\" href=\"administration.html\">Administration</a>");
 document.write("            <a class=\"dropdown-item\" href=\"awards.html\">Awards</a>");
+document.write("            <a class=\"dropdown-item\" href=\"instagram.html\">Gallery</a>");
 document.write("            <a class=\"dropdown-item\" href=\"stem.html\">STEM</a>");
 document.write("          </div>");
 document.write("                  </li>");
@@ -132,7 +133,7 @@ document.write("                        <a class=\"dropdown-item\" href=\"equipm
 document.write("                        <a class=\"dropdown-item\" href=\"uniform_primary.html\">School Uniform</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"program_primary.html\">Primary Years Programme  (PYP)</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"newsletter_primary.html\">Newsletter</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"#\">Weekly menu</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"food_primary.html\">Weekly menu</a>");
 document.write("                        <!--<a class=\"dropdown-item submenu\" href=\"#\">2-й уровень</a>-->");
 document.write("                      </div>");
 document.write("            <a class=\"dropdown-item\" href=\"#\">Secondary School</a>");
@@ -146,7 +147,7 @@ document.write("                        <a class=\"dropdown-item\" href=\"unifor
 document.write("                        <a class=\"dropdown-item\" href=\"program_secondary.html\">Middle Years Programme (MYP)</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Diploma Programme (DP)</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"newsletter_secondary.html\">Newsletter</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"#\">Weekly menu</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"food_secondary.html\">Weekly menu</a>");
 document.write("                        <!--<a class=\"dropdown-item submenu\" href=\"#\">2-й уровень</a>-->");
 document.write("                      </div>");
 document.write("                    </div>");

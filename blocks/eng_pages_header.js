@@ -140,12 +140,12 @@ document.write("            <a class=\"dropdown-item\" href=\"#\">Secondary Scho
 document.write("            <div class=\"dropdown-menu\">");
 document.write("                        <a class=\"dropdown-item\" href=\"welcome_secondary.html\">Secondary School Principal’s welcome</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"calendar.html\">School calendar</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"#\">Handbook for Parents</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"../../download/Secondary School SP Handbook 19-20 Eng (003).docx\" download target=\"_blank\">Handbook for Parents</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">School Policies and Rules</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirements_secondary.html\">List of educational supplies</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"uniform_secondary.html\">School Uniform</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"program_secondary.html\">Middle Years Programme (MYP)</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"#\">Diploma Programme (DP)</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"../../download/Diploma Handbook 2019-2020.pdf\" download target=\"_blank\">Diploma Programme (DP)</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"newsletter_secondary.html\">Newsletter</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"food_secondary.html\">Weekly menu</a>");
 document.write("                        <!--<a class=\"dropdown-item submenu\" href=\"#\">2-й уровень</a>-->");

@@ -140,7 +140,7 @@ document.write("            <a class=\"dropdown-item\" href=\"#\">Secondary Scho
 document.write("            <div class=\"dropdown-menu\">");
 document.write("                        <a class=\"dropdown-item\" href=\"welcome_secondary.html\">Secondary School Principal’s welcome</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"calendar.html\">School calendar</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"../../download/Secondary School SP Handbook 19-20 Eng (003).pdf\" download target=\"_blank\">Handbook for Parents</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"https://sway.office.com/eZ5HYhpKsKcYvhvm?ref=Link\" target=\"_blank\">Handbook for Parents</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">School Policies and Rules</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirements_secondary.html\">List of educational supplies</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"uniform_secondary.html\">School Uniform</a>");

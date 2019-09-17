@@ -20,7 +20,7 @@ document.write("    <div class=\"nneflogo\">");
 document.write("      <a href=\"https://foundation.kz/\"><img src=\"../../images/sources/nnef.png\" alt=\"1\"></a>");
 document.write("    </div>");
 document.write("    <div class=\"miraslogo\">");
-document.write("      <a href=\"https://miras-astana.com/\"><img src=\"../../images/sources/miras20.png\" alt=\"2\"></a>");
+document.write("      <a href=\"https://miras-astana.kz/\"><img src=\"../../images/sources/miras20.png\" alt=\"2\"></a>");
 document.write("    </div>");
 document.write("</div>");
 document.write("<div class=\"schoolname\">");

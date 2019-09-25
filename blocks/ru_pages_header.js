@@ -127,7 +127,7 @@ document.write("            <a class=\"dropdown-item\" href=\"#\">Начальн
 document.write("            <div class=\"dropdown-menu\">");
 document.write("                        <a class=\"dropdown-item\" href=\"welcome_primary.html\">Приветствие директора</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"calendar.html\">Календарь школы</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"#\">Руководство для родителей</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"../../download/PS SP HB 2019 Rus.pdf\" target=\"_blank\">Руководство для родителей</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Правила и политики школы</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirements_primary.html\">Список учебных принадлежностей</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"uniform_primary.html\">Школьная форма</a>");
@@ -140,12 +140,12 @@ document.write("            <a class=\"dropdown-item\" href=\"#\">Старшая
 document.write("            <div class=\"dropdown-menu\">");
 document.write("                        <a class=\"dropdown-item\" href=\"welcome_secondary.html\">Приветствие директора</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"calendar.html\">Календарь школы</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"https://sway.office.com/CsP0wixbI3CMnZyp?ref=Link\" target=\"_blank\">Руководство для родителей</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"../../download/Secondary School SP Handbook 19-20 R.pdf\" target=\"_blank\">Руководство для родителей</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"#\">Правила и политики школы</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"equipment_requirements_secondary.html\">Список учебных принадлежностей</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"uniform_secondary.html\">Школьная форма</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"program_secondary.html\">Программа Старшей школы</a>");
-document.write("                        <a class=\"dropdown-item\" href=\"#\">Дипломная программа</a>");
+document.write("                        <a class=\"dropdown-item\" href=\"../../download/Diploma Handbook 2019-2020.pdf\" target=\"_blank\">Дипломная программа</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"newsletter_secondary.html\">Информационный бюллетень</a>");
 document.write("                        <a class=\"dropdown-item\" href=\"food_secondary.html\">Недельное меню</a>");
 document.write("                        <!--<a class=\"dropdown-item submenu\" href=\"#\">2-й уровень</a>-->");

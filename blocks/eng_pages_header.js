@@ -1,19 +1,43 @@
 document.write("<div class=\"header\">");
-document.write("  <div class=\"firstpart\">");
-document.write("    <div class=\"lang\">");
-document.write("<a href=\"#\"><img src=\"../../images/sources/kz.png\" alt=\"\"></a>");
-document.write("<a href=\"../../eng.html\"><img src=\"../../images/sources/en.png\" alt=\"\"></a>");
-document.write("<a href=\"../../index.html\"><img src=\"../../images/sources/ru.png\" alt=\"\"></a>");
-document.write("    </div>");
-document.write("    <div class=\"ticker\">");
-document.write("<marquee>Miras International School, Astana provides a quality education, based on the integration of international and Kazakhstani educational standards, within a challenging and supportive environment that fosters international-mindedness, promotes all aspects of individual growth, and equips students with the skills for lifelong learning.</marquee>");
-document.write("    </div>");
-document.write("    <div class=\"socnet\">");
-document.write("<img src=\"../../images/sources/fb.png\" alt=\"\">");
-document.write("<img src=\"../../images/sources/inst.png\" alt=\"\">");
-document.write("<img src=\"../../images/sources/wa.png\" alt=\"\">");
-document.write("    </div>");
+
+
+
+
+
+document.write("<div class=\"firstpart\">");
+document.write("  <div class=\"lang\">");
+document.write("<a href=\"#\"><img src=\"images/sources/kz.png\" alt=\"\"></a>");
+document.write("<a href=\"eng.html\"><img src=\"images/sources/en.png\" alt=\"\"></a>");
+document.write("<a href=\"index.html\"><img src=\"images/sources/ru.png\" alt=\"\"></a>");
 document.write("  </div>");
+document.write("  <div class=\"ticker\">");
+document.write("<marquee>Miras International School, Nur-Sultan provides a quality education, based on the integration of international and Kazakhstani educational standards, within a challenging and supportive environment that fosters international-mindedness, promotes all aspects of individual growth, and equips students with the skills for lifelong learning.</marquee>");
+document.write("  </div>");
+document.write("  <div class=\"socnet\">");
+document.write("<a href=\"https://www.facebook.com/mirasschoolastana/\" target=\"_blank\"><img src=\"images/sources/fb.png\" alt=\"\"></a>");
+document.write("<a href=\"https://www.instagram.com/miras_astana_kz/\" target=\"_blank\"><img src=\"images/sources/inst.png\" alt=\"\"></a>");
+document.write("  </div>");
+document.write("</div>");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.write("  </div>");
+
+
+
 document.write("  <div class=\"secondpart\">");
 document.write("<div class=\"logos\">");
 document.write("    <div class=\"nneflogo\">");

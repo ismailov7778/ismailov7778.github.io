@@ -10,7 +10,7 @@ document.write("<marquee>Международная школа «Мирас» г
 document.write("    </div>");
 document.write("    <div class=\"socnet\">");
 document.write("<a href=\"https://www.facebook.com/mirasschoolastana/\" target=\"_blank\"><img src=\"../../images/sources/fb.png\" alt=\"\"></a>");
-document.write("<a href=\"https://www.instagram.com/miras_astana_kz/\" target=\"_blank\"><img src=\"../../images/sources/inst.png\" alt=\"\"></a>");
+document.write("<a href=\"https://www.instagram.com/miras_nursultan_kz/\" target=\"_blank\"><img src=\"../../images/sources/inst.png\" alt=\"\"></a>");
 document.write("    </div>");
 document.write("  </div>");
 document.write("  <div class=\"secondpart\">");

@@ -52,7 +52,7 @@ document.write("</div>");
 document.write("</div>");
 document.write("<div class=\"contacts\">");
 document.write("<div class=\"telephone\"><i class=\"fas fa-phone\"></i><span>+7 (7172) </span>369867<br>");
-document.write("  <span class=\"telissue\">+7 (7172) </span>369868");
+document.write("  <span class=\"telissue\">+7 (7172) </span>369875");
 document.write("</div>");
 document.write("<div class=\"address\">");
 document.write("  <span><i class=\"fas fa-map-marker-alt\"></i>Kuishi Dina st. 34<br> Nur-Sultan, Kazakhstan</span>");
